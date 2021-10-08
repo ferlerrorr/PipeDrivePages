@@ -8,7 +8,9 @@ body{
 @media (max-width: 760px) {
   #container {
     height: 90vh !important;
-    background-size: auto;
+    background-position: center;
+    padding: 0% !important;
+    margin: 0% !important;
   }
   body{
     height: 95% !important;
