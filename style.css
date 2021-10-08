@@ -34,9 +34,10 @@ body{
   -moz-border-radius: 25px;
   -ms-border-radius: 25px;
   -o-border-radius: 25px;
+  margin-bottom: 0%;
 }
 
 
 .pipedriveWebForms{
-  margin: 0 10px 0 0;
+  margin: 0 0 0 0;
 }
