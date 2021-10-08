@@ -2,6 +2,7 @@ html,
 body{
   height: 100%;
   margin: 0 0 0 0;
+  position:relative;
 }
 
 #container{
@@ -9,7 +10,6 @@ body{
   height: 100vh;
   margin-top: 0;
   background-image: url(img/molecules2.png);
-  background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
   /* --- FLEX --- */
