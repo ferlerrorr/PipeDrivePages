@@ -8,6 +8,7 @@ body{
 @media (max-width: 760px) {
   #container {
     height: 90vh !important;
+    background-size: auto;
   }
   body{
     height: 95% !important;
