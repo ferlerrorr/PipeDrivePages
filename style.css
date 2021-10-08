@@ -5,9 +5,9 @@ body{
 }
 
 
-@media (max-width: 750px) {
+@media (max-width: 760px) {
   #container {
-    height: 95vh !important;
+    height: 90vh !important;
   }
 }
 
