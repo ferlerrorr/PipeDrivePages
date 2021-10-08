@@ -9,6 +9,9 @@ body{
   #container {
     height: 80vh !important;
   }
+  body{
+    height: 95% !important;
+  }
 }
 
 
