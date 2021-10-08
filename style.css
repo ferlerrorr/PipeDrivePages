@@ -17,12 +17,11 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  position: fixed;
 }
 
 
-  .box{
-  height: 82vh;
+ .box{
+  height: fit-content;
   width: auto;
   font-size: 20px;
   background: rgba(255, 255, 255, .3);
