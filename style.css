@@ -7,10 +7,10 @@ body{
 
 @media (max-width: 760px) {
   #container {
-    height: 80vh !important;
+    height: 78vh !important;
   }
   body{
-    height: 95% !important;
+    height: 80% !important;
   }
 }
 
