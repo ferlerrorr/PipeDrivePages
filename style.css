@@ -12,17 +12,10 @@ body{
 @media (max-width: 760px) {
   #container {
     height: 90vh !important;
-    background-position: bottom;
     padding: 0% !important;
     margin: 0% !important;
   }
-  body{
-    height: 95% !important;
-    margin: 0% !important;
-  }
 }
-
-
 
 #container{
   width: 100%;
